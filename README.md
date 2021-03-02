@@ -1,5 +1,5 @@
 # Brainfuck
-Simple, fast and easy to use Brainfuck interpreter ( ͡~ ͜ʖ ͡°)
+Simple, fast and easy-to-use Brainfuck interpreter ( ͡~ ͜ʖ ͡°)
 
 Damn ugly, BUT single-file interpreter implementation for the best esoteric prog language EVER!!!
 The best one as you can get, 'cause it\'s born from the purest layziness.
