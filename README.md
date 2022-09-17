@@ -6,7 +6,7 @@ The best one as you can get, 'cause it\'s born from the purest layziness.
 
 TIP OF THE DAY\: code includes some totally pointless comments.
 
-## Command destription
+## Command description
 
 Cmd char | Description
 :-:|-
